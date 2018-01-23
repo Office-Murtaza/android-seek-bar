@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Android Seek Bar</string>
+    <string name="choose_video_file">Choose video file</string>
+    <string name="choose_it">Choose it</string>
 </resources>
